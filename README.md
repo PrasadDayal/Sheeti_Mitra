@@ -11,31 +11,31 @@ ShetiMitra is a comprehensive digital agriculture platform tailored for farmers 
 
 ### 1. Farmer Smart Dashboard
 *Overview of farm economics, live modal rates, crop stage tracking, and weather advisories.*
-![ShetiMitra Dashboard](screenshots/dashboard.png)
+![ShetiMitra Dashboard](screenshot/dashboard.png)
 
 <br/>
 
 ### 2. Live APMC Mandi Intelligence & Price Tracking
 *Real-time prices from Pimpalgaon, Tasgaon, Solapur, and Pune APMC markets.*
-![Market Intelligence](screenshots/market.png)
+![Market Intelligence](screenshot/market.png)
 
 <br/>
 
 ### 3. Smart Selling Decision Engine & Net Realization
 *Compare APMC realization vs. direct farm-gate exporter pickup to maximize profit.*
-![Selling Decision](screenshots/selling_decision.png)
+![Selling Decision](screenshot/selling_decision.png)
 
 <br/>
 
 ### 4. 24/7 Multilingual AI Agronomist (AI शेतीमित्र)
 *Ask any question regarding crop pests, fertilizer dosages, or schemes in Marathi, Hindi, or English.*
-![AI Assistant](screenshots/ai_assistant.png)
+![AI Assistant](screenshot/ai_assistant.png)
 
 <br/>
 
 ### 5. Farm Equipment Store & MahaDBT Subsidies
 *Discover modern farm machinery, solar pumps, and government subsidy schemes.*
-![Equipment Store](screenshots/equipment.png)
+![Equipment Store](screenshot/equipment.png)
 
 </div>
 
